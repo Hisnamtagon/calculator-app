@@ -57,6 +57,11 @@ form input.equal {
 }
 
 
+form input.operator {
+    color: rgb(215, 255, 123);
+}
+
+
 
 
 @media (max-width: 480px) {
